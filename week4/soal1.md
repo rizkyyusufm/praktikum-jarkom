@@ -28,7 +28,7 @@ Pesan tersebut dikirimkan melalui UDP
 
 2. 
 ![image](../assets/image/week4/soal1%20no%202.png)
-![image](../assets/image/week4/soal1%20no%202(2).png.png) 
+![image](../assets/image/week4/soal1%20no%202(2).png) 
 Port tujuan pada pesan permintaan DNS adalah 53. Port sumber pada pesan balasannya adalah 53
 
 ---
