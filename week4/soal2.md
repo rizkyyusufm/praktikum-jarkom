@@ -13,22 +13,26 @@ tersebut mengandung ”jawaban” atau ”answers”?
 dalamnya. Apa saja isi yang terkandung dalam setiap jawaban tersebut? 
 
 # Jawaban :
-1. ![image](../assets/image/week4/soal2%20no%201.png)
+1. 
+![image](../assets/image/week4/soal2%20no%201.png)
 ![image](../assets/image/week4/soal2%20no%201(2).png)
 Port tujuan pada pesan permintaan DNS adalah 53. Port sumber pada pesan balasan DNS adalah 53
 
 ---
 
-2. ![image](../assets/image/week4/soal2%20no%202.png)
+2. 
+![image](../assets/image/week4/soal2%20no%202.png)
 ![image](../assets/image/week4/soal2%20no%202(2).png) 
 Pesan permintaan DNS dikirimkan ke alamat IP 10.221.193.2. Alamat IP tersebut merupakan default alamat IP server DNS lokal saya
 
 ---
 
-3. ![image](../assets/image/week4/soal2%20no%203.png) 
+3. 
+![image](../assets/image/week4/soal2%20no%203.png) 
 Jenis atau type dari pesan tersebut adalah AAAA. Pesan tersebut tidak mengandung jawaban atau answers
 
 ---
 
-4. ![image](../assets/image/week4/soal2%20no%204.png) 
+4. 
+![image](../assets/image/week4/soal2%20no%204.png) 
 Terdapat 4 jawaban

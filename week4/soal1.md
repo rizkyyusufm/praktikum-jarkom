@@ -19,29 +19,34 @@ gambar. Apakah host Anda perlu mengirimkan pesan permintaan DNS baru setiap kali
 mengakses suatu gambar?
 
 # Jawaban :
-1. ![image](../assets/image/soal1%20no%201.png)
-![image](../assets/image/soal1%20no%201(2).png)
+1. 
+![image](../assets/image/week4/soal1%20no%201.png)
+![image](../assets/image/week4/soal1%20no%201(2).png)
 Pesan tersebut dikirimkan melalui UDP
 
 ---
 
-2. ![image](../assets/image/soal1%20no%202.png)
-![image](../assets/image/soal1%20no%202(2).png) 
+2. 
+![image](../assets/image/week4/soal1%20no%202.png)
+![image](../assets/image/week4/soal1%20no%202(2).png.png) 
 Port tujuan pada pesan permintaan DNS adalah 53. Port sumber pada pesan balasannya adalah 53
 
 ---
 
-3. ![image](../assets/image/soal1%20no%203.png)
-![image](../assets/image/soal1%20no%203(2).png)
+3. 
+![image](../assets/image/week4/soal1%20no%203.png)
+![image](../assets/image/week4/soal1%20no%203(2).png)
 
 ---
 
-4. ![image](../assets/image/soal1%20no%204.png)
+4. 
+![image](../assets/image/week4/soal1%20no%204.png)
 Jenis atau type dari pesan tersebut adalah A (Host Address). Pesan permintaan tersebut tidak mengandung jawaban atau answers
 
 ---
 
-5. ![image](../assets/image/soal1%20no%205.png)
+5. 
+![image](../assets/image/week4/soal1%20no%205.png)
 Terdapat 2 jawaban
 
 ---

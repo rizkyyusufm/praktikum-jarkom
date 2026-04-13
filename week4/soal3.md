@@ -12,15 +12,18 @@ tersebut mengandung ”jawaban” atau ”answers”?
 Apakah pesan balasan ini juga memberikan alamat IP untuk server MIT tersebut?
 
 # Jawaban :
-1. ![image](../assets/image/week4/soal3%20no%201.png)
+1. 
+![image](../assets/image/week4/soal3%20no%201.png)
 ![image](../assets/image/week4/soal3%20no%201(2).png)
 
 ---
 
-2. ![image](../assets/image/week4/soal3%20no%202.png)
+2. 
+![image](../assets/image/week4/soal3%20no%202.png)
 Jenis atau type dari pesan tersebut adalah A. Pesan tersebut tidak mengandung jawaban atau answers
 
 ---
 
-3. ![iamge](../assets/image/week4/soal3%20no%203.png) 
+3. 
+![iamge](../assets/image/week4/soal3%20no%203.png) 
 Pesan balasan ini juga memberikan alamat IP untuk server MIT
